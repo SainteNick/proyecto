@@ -1,7 +1,7 @@
 
 1. Nombre Proyecto (Identificador): 
 2. Descripción: 
-3. Evento físico a simular: Objeto lanzado hacia 
+3. Evento físico a simular: Objeto lanzado desde arriba de un edificio con distintos pesos y altura 
 a. Breve historia asociada (origen): 
 b. Matemática empleada: 
 c. Como se resuelve: 
