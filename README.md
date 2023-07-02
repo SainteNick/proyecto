@@ -21,16 +21,16 @@ c. Como se resuelve: En el programa se asignaran teclas para aumentar y disminui
 
 d. Aplicaciones: Visual Studio Code y Aseprite
 
-4. Programación: 
+4. Programación. 
 
 a. Descripción de las herramientas utilizadas: Para escribir el codigo se eligio el lenguaje de programacion Python junto con la libreria Pygame para todo el apartado grafico.
 
-b. Guia de instalación: 
+b. Guia de instalación: (pendiente)
 
-c. Guia de uso (Hacer uso de imágenes o un video tutorial para su uso): 
+c. Guia de uso (Hacer uso de imágenes o un video tutorial para su uso): (pendiente)
 
 d. Enlace a vídeo con la explicación del código desarrollado y del fenómeno
-físico desarrollado: 
+físico desarrollado: https://www.youtube.com/watch?v=4iI5TndpFqk&ab_channel=mrbaklava
 
 5. Conclusiones: En conclusión, el código de Python proporcionado utiliza la biblioteca Pygame para simular la energía potencial gravitatoria. El código implementa un juego en el que el jugador puede ajustar la altura del edificio y el peso de una bola, y luego observar cómo la bola cae debido a la gravedad.
 
