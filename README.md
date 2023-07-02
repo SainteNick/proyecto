@@ -30,7 +30,7 @@ b. Guia de instalación: (pendiente)
 c. Guia de uso (Hacer uso de imágenes o un video tutorial para su uso): (pendiente)
 
 d. Enlace a vídeo con la explicación del código desarrollado y del fenómeno
-físico desarrollado: https://www.youtube.com/watch?v=4iI5TndpFqk&ab_channel=mrbaklava
+físico desarrollado: https://www.youtube.com/watch?v=_cHOp46aLoM&ab_channel=mrbaklava
 
 5. Conclusiones: En conclusión, el código de Python proporcionado utiliza la biblioteca Pygame para simular la energía potencial gravitatoria. El código implementa un juego en el que el jugador puede ajustar la altura del edificio y el peso de una bola, y luego observar cómo la bola cae debido a la gravedad.
 
