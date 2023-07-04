@@ -1,10 +1,9 @@
 
-1. Nombre Proyecto (Identificador): Energia Potencial Gravitacional
+1. Nombre Proyecto (Identificador): Potential Energy (The game)
 
 2. Descripción: La finalidad de este programa es crear una forma didactica para que el usuario pueda experimentar por su cuenta
                 como al cambiar la masa de un objeto y la altura desde la que este cae influyen en la energia potencial que alberga inicialmente, observando asi cambios en la velocidad
-                del objeto al llegar al suelo, esto debido a la perdida de energia potencial y ganancia de energia cinetica. En este caso al ser energia pontencial gravitacional el tema asignado, 
-                el programa podra mostrar dos escenarios, uno en donde actua el roce y otro en donde este no actue.
+                del objeto al llegar al suelo, esto debido a la perdida de energia potencial y ganancia de energia cinetica. 
 
 3.Evento físico a simular: El evento fisico simulado, es observar como influye el peso del objeto y la altura de donde se deje caer, esto corroborado por la formula de la energia potencial
                           (masa * gravedad * altura)
@@ -16,23 +15,21 @@ a. Breve historia asociada (origen): Una historia asociada a este experimento, s
 
 b. Matemática empleada: La matematica detras en si es muy sencilla, solo se aplica la formula de la energia potencial (masa * gravedad * altura), con datos manipulados por el usuario. 
 
-c. Como se resuelve: En el programa se asignaran teclas para aumentar y disminuir masa del objeto (bola) y altura de la plataforma (edificio), y al presionar la tecla asignada para dejar caer el objeto
-                     se mostrara en un marcador la velocidad max alcanzada por el objeto, y un ventana con el resultado de la energia en joules.
+c. Como se resuelve: En el programa se asignaran teclas para aumentar y disminuir masa del objeto (bola) y altura de donde este se dejara caer(posicion en el edificio), y al presionar la tecla asignada para dejar caer el                       objeto se mostrara una ventana con el resultado de la energia en joules.
 
-d. Aplicaciones: Visual Studio Code y Aseprite
+d. Aplicaciones: La principal aplicacion es la de educar sobre este tipo de energia especifico, y el programa lo consigue siendo practico y didactico ya que esta ambientado como un videojuego.
 
 4. Programación. 
 
-a. Descripción de las herramientas utilizadas: Para escribir el codigo se eligio el lenguaje de programacion Python junto con la libreria Pygame para todo el apartado grafico.
+a. Descripción de las herramientas utilizadas: Para escribir el codigo se eligio el lenguaje de programacion Python junto con la libreria Pygame para todo el apartado grafico, y ademas se uso un programa externo para la                                                  creacion de los sprites del juego llamado Libresprite.
 
 b. Guia de instalación: (pendiente)
 
-c. Guia de uso (Hacer uso de imágenes o un video tutorial para su uso): (pendiente)
+c. Guia de uso (Hacer uso de imágenes o un video tutorial para su uso): https://www.youtube.com/watch?v=-iNsU3QbgU8&ab_channel=mrbaklava
 
-d. Enlace a vídeo con la explicación del código desarrollado y del fenómeno
-físico desarrollado: https://www.youtube.com/watch?v=_cHOp46aLoM&ab_channel=mrbaklava
+d. Enlace a vídeo con la explicación del código desarrollado y del fenómeno físico desarrollado: https://www.youtube.com/watch?v=_cHOp46aLoM&ab_channel=mrbaklava
 
-5. Conclusiones: En conclusión, el código de Python proporcionado utiliza la biblioteca Pygame para simular la energía potencial gravitatoria. El código implementa un juego en el que el jugador puede ajustar la altura del edificio y el peso de una bola, y luego observar cómo la bola cae debido a la gravedad.
+5. Conclusiones: En conclusión, el código de Python proporcionado utiliza la biblioteca Pygame para simular la energía potencial gravitatoria. El código implementa un juego en el que el jugador puede ajustar la altura del                  edificio y el peso de una bola, y luego observar cómo la bola cae debido a la gravedad.
 
 La fórmula de la energía potencial gravitatoria, Ep = peso_bola * 9.8 * altura_edificio, es utilizada en el código para calcular la energía potencial gravitatoria en función del peso de la bola, la aceleración debida a la gravedad y la altura del edificio. Esta fórmula muestra cómo estos tres factores están relacionados y cómo influyen en la energía potencial gravitatoria de un objeto en el campo gravitatorio terrestre.
 
