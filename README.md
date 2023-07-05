@@ -23,7 +23,7 @@ d. Aplicaciones: La principal aplicacion es la de educar sobre este tipo de ener
 
 a. Descripción de las herramientas utilizadas: Para escribir el codigo se eligio el lenguaje de programacion Python junto con la libreria Pygame para todo el apartado grafico, y ademas se uso un programa externo para la                                                  creacion de los sprites del juego llamado Libresprite.
 
-b. Guia de instalación: (pendiente)
+b. Guia de instalación: https://docs.google.com/document/d/1Y95Jv7dpgSYGpWcO-67DfAJN-t4s5Rif3ShiCy8k3JE/edit
 
 c. Guia de uso (Hacer uso de imágenes o un video tutorial para su uso): https://www.youtube.com/watch?v=-iNsU3QbgU8&ab_channel=mrbaklava
 
